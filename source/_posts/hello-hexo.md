@@ -3,7 +3,7 @@ title: 介绍
 categories: []
 date: 2018-11-26 13:57:51
 tags: 简介
-cover: http://tupian.qqjay.com/u/2017/1201/1_17649_4.jpg
+cover: /img/introduce.jpg
 keywords: 前端 
 ---
 

@@ -2,11 +2,7 @@
 title: WebSession和localStorage使用
 categories: 
 date: 2018-11-30 14:32:00
-tags:
-	-HTML
-	-Web
-	-Socket
-	-JavaScript
+tags: 前端数据持久化
 cover: http://image20.it168.com/201805_0x0/3185/25a49c86a4459d96.jpg
 keywords: web存储
 ---

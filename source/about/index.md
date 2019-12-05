@@ -3,7 +3,8 @@ title: 介绍
 categories: []
 date: 2018-11-26 13:57:51
 tags: 简介
-cover: /img/introduce.jpg
+type: "about"
+# cover: /img/introduce.jpg
 keywords: 前端 
 ---
 
@@ -16,7 +17,3 @@ keywords: 前端
 前端技术发展很快快，很多技术每天都需要接触，博客中涉及到的系统性知识包括：JavaScript、ajax、Vue、angular、React以及配合各种UI框架搭建前台或者后台管理系统。
 
 由于平时工作也比较忙，博客中相关知识的系列章节更新较慢，慢工出细活吧。
-
-
-
-####  最后送上一句在网上的看到的话：在《倚天屠龙记》最NB的不是张无忌，而是张三丰，加油！！共勉！！！

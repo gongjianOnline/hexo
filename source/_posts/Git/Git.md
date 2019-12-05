@@ -3,10 +3,7 @@ title: Git基本命令点总结
 categories: []
 date: 2018-11-28 16:57:51
 cover: https://linux.cn/data/attachment/album/201804/20/162427h1tuyumjtud0y1zz.jpg
-tags: 
-	-git
-	-前端
-	-代码管理
+tags: git命令集
 keywords: 前端 
 ---
 

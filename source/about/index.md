@@ -17,3 +17,5 @@ keywords: 前端
 前端技术发展很快快，很多技术每天都需要接触，博客中涉及到的系统性知识包括：JavaScript、ajax、Vue、angular、React以及配合各种UI框架搭建前台或者后台管理系统。
 
 由于平时工作也比较忙，博客中相关知识的系列章节更新较慢，慢工出细活吧。
+
+### CSDN地址 https://blog.csdn.net/weixin_39513821

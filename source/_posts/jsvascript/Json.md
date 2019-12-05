@@ -2,7 +2,7 @@
 title: JSON对象的常用场景
 categories: []
 date: 2018-11-27 13:57:51
-cover: https://goss2.vcg.com/creative/vcg/800/version23/VCG41124554707.jpg
+# cover: https://goss2.vcg.com/creative/vcg/800/version23/VCG41124554707.jpg
 tags: JavaScript
 keywords: 前端 
 ---

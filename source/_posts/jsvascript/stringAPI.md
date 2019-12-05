@@ -1,7 +1,7 @@
 ---
 title: JavaScript--stringAPI
 categories: []
-cover: http://www.ittime.com.cn/uploadimage/images/20180801080150.jpg
+# cover: http://www.ittime.com.cn/uploadimage/images/20180801080150.jpg
 date: 2018-11-27 11:57:51
 tags: JavaScript
 keywords: 前端 

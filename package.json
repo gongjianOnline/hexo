@@ -6,7 +6,7 @@
     "version": "3.8.0"
   },
   "dependencies": {
-    "acorn": "^7.1.0",
+    "acorn": "^7.1.1",
     "eslint": "^6.7.2",
     "hexo": "^3.7.0",
     "hexo-deployer-git": "^0.3.1",

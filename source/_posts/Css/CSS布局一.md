@@ -1,5 +1,5 @@
 ---
-title: CSS布局
+title: CSS布局(一)
 categories: []
 date: 2020-4-11 23:29:19
 tags: CSS
@@ -29,4 +29,4 @@ keywords: 前端
  	- 方法二: display:inline-block
  - [ ]  利用float布局统一存在的外边距,导致最后一个div元素换行
  	- 解决方法: 在元素集的上一级添加div margin设置成子元素的margin*-1;也称为 ***负margin***
-  ![场景描述](./CSS布局/margin.jpg)
+  ![场景描述](./CSS布局一/margin.jpg)

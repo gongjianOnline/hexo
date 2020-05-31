@@ -39,8 +39,8 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: true
-  line_number: true
+  enable: false
+  line_number: false
   auto_detect: false
   tab_replace: 
   
@@ -79,6 +79,7 @@ theme: Hexo-Theme-Life
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type : git
-  repository: git@github.com:15031617367/15031617367.github.io.git
+  repository: https://gitee.com/gongjianweb/hexo-CMS.git
+  # git@github.com:15031617367/15031617367.github.io.git
   branch: master
 

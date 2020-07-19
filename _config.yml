@@ -79,7 +79,10 @@ theme: Hexo-Theme-Life
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type : git
-  repository: https://gitee.com/gongjianweb/hexo-CMS.git
+  # repository: https://gitee.com/gongjianweb/hexo-CMS.git
   # git@github.com:15031617367/15031617367.github.io.git
+  repo:
+    github: git@github.com:15031617367/15031617367.github.io.git
+    gitee: git@gitee.com:gongjianweb/gongjianweb.git
   branch: master
 

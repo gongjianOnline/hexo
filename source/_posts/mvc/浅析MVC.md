@@ -1,11 +1,11 @@
 ---
 title: 浅析MVC
 categories: []
-date: 2020-6-30 21:11:51
-# cover: https://goss2.vcg.com/creative/vcg/800/version23/VCG41124554707.jpg
-tags: mvc
+date: 2020-7-16 21:16:35
+tags: MVC
 keywords: 前端 
 ---
+
 
 # 浅析MVC
 1. MVC三个对象分别做什么
